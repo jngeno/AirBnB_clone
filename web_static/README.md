@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GENERAL   What is HTML
 How to create an HTML page
 What is a markup language
@@ -11,3 +12,6 @@ What is a class
 What is a selector
 How to compute CSS Specificity Value
 What are Box properties in CSS
+=======
+This directory implements webpage design.
+>>>>>>> ce3affbe639d3fee5a94ce1e931751b05e914d06
